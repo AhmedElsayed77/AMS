@@ -37,7 +37,7 @@ the
   - Edit account settings    
   
 
-# Login Informations (you can Register as doctor or patietn but just login as Admin)
+# Login Informations (Admin can Login but Patient and Doctor Login and Register)
 
 | Admin Dashboard         | Doctor Dashboard                    | Patient Dashboard           |
 | ----------------------  | ------------------------------      |-----------------------------|
